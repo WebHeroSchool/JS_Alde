@@ -1,3 +1,4 @@
+
 #  JavaScript Best Practice Guide
 
 ### 1. Используйте === вместо ==
@@ -156,3 +157,5 @@ var string = "строка";
 var string = 'строка';
 var phrase = "you're next";
 ```
+=======
+
